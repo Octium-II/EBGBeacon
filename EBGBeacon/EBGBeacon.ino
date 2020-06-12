@@ -1,7 +1,7 @@
 //ExposeBillGates Beacon - Wifi Beacon to inform nearby devices of the 
 //Corbett report documentry on Bill Gates
 //
-//By Octium (Bassed on example by Ivan Grokhotkov)
+//By Octium (Based on example by Ivan Grokhotkov)
 //
 
 #include <ESP8266WiFi.h>
