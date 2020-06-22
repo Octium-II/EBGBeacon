@@ -1,4 +1,4 @@
-const char index_page[] = R"=====(
+const char INDEX_PAGE[] = R"=====(
 <!DOCTYPE html>
 <html>
 <style>
